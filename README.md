@@ -1,8 +1,9 @@
-<img src="https://www.bestdesigns.co/uploads/inspiration_images/4350/990__1511457498_404_walmart.png" alt="WALMART LOGO" />
+<img src="[https://www.bestdesigns.co/uploads/inspiration_images/4350/990__1511457498_404_walmart.png](https://1000marcas.net/wp-content/uploads/2020/02/Walmart-logo-1.jpg)" alt="WALMART LOGO" />
 
 # Walmart : predict weekly sales
 
-## Company's Description 📇
+## Company's 
+Description 📇
 
 Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores from the United States, headquartered in Bentonville, Arkansas. The company was founded by Sam Walton in 1962.
 
